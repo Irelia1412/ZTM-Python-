@@ -1,0 +1,21 @@
+ID: 1
+First Name: 1
+Last Name: 1
+Age: 1
+Email: 1@gmail.com
+Hobby: 1
+--------------------------------------------
+ID: 2
+First Name: 1
+Last Name: 1
+Age: 1
+Email: 1@gmail.com
+Hobby: 1
+--------------------------------------------
+ID: 3
+First Name: 1
+Last Name: 1
+Age: 1
+Email: 1@gmail.com
+Hobby: 1
+--------------------------------------------
