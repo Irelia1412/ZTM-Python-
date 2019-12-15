@@ -9,6 +9,6 @@ email.set_content("You are cute !" )
 with smtplib.SMTP(host='smtp.gmail.com', port = 587) as smtp:
     smtp.ehlo()
     smtp.starttls()
-    smtp.login('nphamood6@gmail.com', '1010-1010M')
+    smtp.login('nphamood6@gmail.com', '*******')
     smtp.send_message(email)
     print("All good !")
