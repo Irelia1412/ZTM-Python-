@@ -19,7 +19,7 @@ post==2019.4.13
 public==2019.4.13
 PyAudio==0.2.11
 PyJWT==1.7.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2019.3
 query-string==2019.4.13
 request==2019.4.13
